@@ -1,2 +1,2 @@
 # exercise_js
-multiple JS excersices
+multiple JS excercises
